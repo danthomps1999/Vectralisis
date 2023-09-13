@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://c2w3e5j3gnr5k"]
+
+[ext_resource type="Texture2D" uid="uid://b6iqx8bbjaw34" path="res://Images/brain.bmp" id="1_ias3t"]
+
+[node name="BrainMap" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_right = 1922.0
+offset_bottom = 1079.0
+texture = ExtResource("1_ias3t")
